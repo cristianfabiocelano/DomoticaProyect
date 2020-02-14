@@ -1,2 +1,2 @@
 # DomoticaProyect
-Web front y back para controlar lamparas por wifi
+La idea es controlar la corriente que le llega a una lamparita a traves de la web o una app mobile.(hoy lamparitas... mañana una casa entera)
